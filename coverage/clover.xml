@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1693895636257" clover="3.2.0">
+  <project timestamp="1693895636257" name="All files">
+    <metrics statements="46" coveredstatements="38" conditionals="23" coveredconditionals="15" methods="11" coveredmethods="8" elements="80" coveredelements="61" complexity="0" loc="46" ncloc="46" packages="2" files="3" classes="3"/>
+    <package name="core">
+      <metrics statements="15" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="6" coveredmethods="3"/>
+      <file name="MongoDB.ts" path="D:\practice\TYPESCRIPTS\sample\src\v1\core\MongoDB.ts">
+        <metrics statements="15" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="6" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="helpers">
+      <metrics statements="31" coveredstatements="26" conditionals="22" coveredconditionals="14" methods="5" coveredmethods="5"/>
+      <file name="PasswordHelper.ts" path="D:\practice\TYPESCRIPTS\sample\src\v1\helpers\PasswordHelper.ts">
+        <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+      <file name="TokenHelper.ts" path="D:\practice\TYPESCRIPTS\sample\src\v1\helpers\TokenHelper.ts">
+        <metrics statements="19" coveredstatements="16" conditionals="20" coveredconditionals="12" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="66" count="3" type="cond" truecount="0" falsecount="1"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="73" count="3" type="stmt"/>
+        <line num="74" count="3" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="80" count="3" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="94" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="102" count="2" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
